@@ -27,6 +27,7 @@ const App = () => {
           {console.log('hello first commit')}
           {console.log('hello second commit')}
           {console.log('hello third commit')}
+          {console.log('UI changed')}
         </SafeAreaView>
       </ScrollView>
     </Provider>
