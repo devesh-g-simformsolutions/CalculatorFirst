@@ -26,6 +26,7 @@ const App = () => {
           <CalculatorScreen />
           {console.log('hello first commit')}
           {console.log('hello second commit')}
+          {console.log('Production')}
         </SafeAreaView>
       </ScrollView>
     </Provider>
