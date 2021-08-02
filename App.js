@@ -25,6 +25,7 @@ const App = () => {
           <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
           <CalculatorScreen />
           {console.log('hello first commit')}
+          {console.log('hello second commit')}
         </SafeAreaView>
       </ScrollView>
     </Provider>
