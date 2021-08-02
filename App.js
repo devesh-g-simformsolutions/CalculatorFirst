@@ -24,6 +24,7 @@ const App = () => {
         <SafeAreaView style={AppStyles.appContainer}>
           <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
           <CalculatorScreen />
+          {console.log('Happy Coading')}
         </SafeAreaView>
       </ScrollView>
     </Provider>
